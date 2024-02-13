@@ -1,4 +1,13 @@
-### Hi there 👋
+### Introduction
+My name is Emmet and I'm a developer (just like everyone else using GitHub). Checkout some of my pinned repositories to get a taste of what I can do.
+
+I'm looking to collaborate on an open source project so reach out!
+| Language | Comfortability |
+|---|---|
+| Java | High |
+| Python | Medium |
+| C++ | Low |
+| Powershell| Low |
 
 <!--
 **mineable3/mineable3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
